@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "zepto-modules",
+      "D:\\resume"
+    ]
+  ],
+  "_from": "zepto-modules@latest",
+  "_id": "zepto-modules@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/zepto-modules",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/zepto-modules-1.0.1.tgz_1475309577805_0.5258820140734315"
+  },
+  "_npmUser": {
+    "email": "tomekfijol@gmail.com",
+    "name": "tomekf"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "zepto-modules",
+    "raw": "zepto-modules",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zepto-modules/-/zepto-modules-1.0.1.tgz",
+  "_shasum": "811fb5adb2daf7462a27f2b0339876e7e094d6ff",
+  "_shrinkwrap": null,
+  "_spec": "zepto-modules",
+  "_where": "D:\\resume",
+  "author": {
+    "name": "Tomek Fijoł"
+  },
+  "bugs": {
+    "url": "https://github.com/tomek-f/zepto-modules/issues"
+  },
+  "dependencies": {},
+  "description": "Zepto in CommonJS modules",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "811fb5adb2daf7462a27f2b0339876e7e094d6ff",
+    "tarball": "https://registry.npmjs.org/zepto-modules/-/zepto-modules-1.0.1.tgz"
+  },
+  "files": [
+    "*.js"
+  ],
+  "gitHead": "7bdc70541e0ef7656de80203c36e1041da5a112d",
+  "homepage": "https://github.com/tomek-f/zepto-modules#readme",
+  "keywords": [
+    "zepto",
+    "CommonJS"
+  ],
+  "license": "MIT",
+  "main": "_default.js",
+  "maintainers": [
+    {
+      "email": "tomekfijol@gmail.com",
+      "name": "tomekf"
+    }
+  ],
+  "name": "zepto-modules",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomek-f/zepto-modules.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}
